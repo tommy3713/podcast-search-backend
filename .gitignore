@@ -1,0 +1,26 @@
+# Node.js and npm files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Directory for deployed apps
+dist/
+
+# IDE or Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional: If using a database, include data directories
